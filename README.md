@@ -10,3 +10,4 @@ Online_retail_II data: contains all the transactions occurring for a UK-based an
  - Python
 
 ### Results
+![alt text](?raw=true)
